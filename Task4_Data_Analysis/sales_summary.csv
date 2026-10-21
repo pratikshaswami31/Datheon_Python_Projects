@@ -1,0 +1,11 @@
+order_id,product,category,quantity,price,city,total_sales
+1,Laptop,Electronics,2,45000,Pune,90000
+2,Mouse,Accessories,5,500,Mumbai,2500
+3,Keyboard,Accessories,3,1200,Pune,3600
+4,Monitor,Electronics,2,12000,Nashik,24000
+5,Laptop,Electronics,1,45000,Mumbai,45000
+6,Mouse,Accessories,4,500,Pune,2000
+7,Headphones,Accessories,3,2000,Nashik,6000
+8,Monitor,Electronics,1,12000,Pune,12000
+9,Keyboard,Accessories,2,1200,Mumbai,2400
+10,Laptop,Electronics,1,45000,Nashik,45000

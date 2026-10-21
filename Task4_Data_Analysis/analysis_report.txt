@@ -1,0 +1,19 @@
+SALES ANALYSIS REPORT
+=====================
+Total orders: 10
+Total revenue: Rs. 232,500.00
+Best-selling product by revenue: Laptop
+
+Sales by city:
+city
+Mumbai     49900
+Nashik     75000
+Pune      107600
+
+Sales by product:
+product
+Headphones      6000
+Keyboard        6000
+Laptop        180000
+Monitor        36000
+Mouse           4500
